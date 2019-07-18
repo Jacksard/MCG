@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://Jacob:jacob12345@cluster0-eqp05.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "4f77b0262413021baefc",
+    "githubSecret": "c3dc1997e8117aa0f42f69d4d8feab3611f6825e"
+  }
+  
